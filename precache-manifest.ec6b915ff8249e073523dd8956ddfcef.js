@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45f60467039ee694ec9c",
-    "url": "/css/app.f1f4f6d6.css"
+    "revision": "5fc8dfe9cd71d9039c9f",
+    "url": "/css/app.c124904d.css"
   },
   {
     "revision": "308887cadc5d4ef0a16d",
@@ -112,12 +112,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/images/zoom-out.svg"
   },
   {
-    "revision": "88e1c227175fcd90991ec92869081124",
+    "revision": "cbd7676598a3d0de7482716a4dd77fd1",
     "url": "/index.html"
   },
   {
-    "revision": "45f60467039ee694ec9c",
-    "url": "/js/app.49adfdc4.js"
+    "revision": "5fc8dfe9cd71d9039c9f",
+    "url": "/js/app.a2f9b3be.js"
   },
   {
     "revision": "308887cadc5d4ef0a16d",
