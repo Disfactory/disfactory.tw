@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af984117ba387ff5b042",
+    "revision": "01c429f8d1ef4e9b36a0",
     "url": "/css/app.efede21a.css"
   },
   {
@@ -116,32 +116,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/images/search.svg"
   },
   {
-    "revision": "cdae551927c8787fe1e9925aff10b9d3",
-    "url": "/images/tutorial/new_1.png"
+    "revision": "4a3769dea980322fa63d5155b7f4f250",
+    "url": "/images/tutorial/create-1.jpg"
   },
   {
-    "revision": "df4949b995aedd7bfef372f18d3e8593",
-    "url": "/images/tutorial/new_2.png"
+    "revision": "7701218d9a4ae687f962a20c07f31d8f",
+    "url": "/images/tutorial/create-2.jpg"
   },
   {
-    "revision": "d5f4e611942aaa99c4e34a44b02fc898",
-    "url": "/images/tutorial/new_3.png"
+    "revision": "640502cf36ac03d861947b43078241ee",
+    "url": "/images/tutorial/create-3.jpg"
   },
   {
-    "revision": "c7a5b2b7225ba0b8ea0e3c1b07de1145",
-    "url": "/images/tutorial/new_4.png"
+    "revision": "2ed50a728761df4bc0828f686cb3c5d7",
+    "url": "/images/tutorial/create-4.jpg"
   },
   {
-    "revision": "862c586fbee5436ab7729970b6dbf04d",
-    "url": "/images/tutorial/new_5.png"
+    "revision": "a7efa442f17945cbb3e6e98174e35689",
+    "url": "/images/tutorial/create-5.jpg"
   },
   {
-    "revision": "b945564cfd302ccfad1e3e33a6898226",
-    "url": "/images/tutorial/update_1.png"
+    "revision": "62278e0bc2451757185a067d03a75b87",
+    "url": "/images/tutorial/create-6.jpg"
   },
   {
-    "revision": "4051ef6ddd4f2d3df6e40f7e3d03031a",
-    "url": "/images/tutorial/update_2.png"
+    "revision": "af9185b03831762556d01b209b881c65",
+    "url": "/images/tutorial/create-7.jpg"
+  },
+  {
+    "revision": "255f24230658f8d194ce1709f42b6482",
+    "url": "/images/tutorial/update-1.jpg"
+  },
+  {
+    "revision": "5cb50b6efc0d016dc61151f9558414ad",
+    "url": "/images/tutorial/update-2.jpg"
+  },
+  {
+    "revision": "c4edeec2e27c89d31b9b5f37ea1a2b68",
+    "url": "/images/tutorial/update-3.jpg"
+  },
+  {
+    "revision": "ef886a1eadd9914056eb607013ca4cc8",
+    "url": "/images/tutorial/update-4.jpg"
   },
   {
     "revision": "9976f26e97d82ad1e6573905e835eb72",
@@ -152,12 +168,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/images/zoom-out.svg"
   },
   {
-    "revision": "2e72f0d935cc0d6a0a1abdb88decb18b",
+    "revision": "7d12ee40bdde611491262509058a69e0",
     "url": "/index.html"
   },
   {
-    "revision": "af984117ba387ff5b042",
-    "url": "/js/app.00575e45.js"
+    "revision": "01c429f8d1ef4e9b36a0",
+    "url": "/js/app.cc725fca.js"
   },
   {
     "revision": "154b4a0b454a66828829",
